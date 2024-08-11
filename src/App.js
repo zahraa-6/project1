@@ -6,7 +6,7 @@ import { About } from "./pages/About";
 import { Courses } from "./pages/Courses";
 import { Blog } from "./pages/Blog";
 import { Instructor } from "./pages/Instructor";
-import CourseDetails from "./pages/CourseDetails";  
+import CourseDetails from "./pages/CourseDetails";  // تحقق من هذا المسار
 import Login from "./pages/Login";
 
 function App() {
@@ -42,7 +42,7 @@ function App() {
             path='/course/:id'
             element={
               <Layout>
-                <CourseDetails /> 
+                <CourseDetails />  // تأكد من أن CourseDetails تم استيراده بشكل صحيح
               </Layout>
             }
           />
