@@ -6,10 +6,10 @@ function Login() {
 
   const handleSubmit = (event) => { 
     event.preventDefault(); 
-    // Perform login logic here 
+    
     console.log('Username:', username); 
     console.log('Password:', password); 
-    // ... 
+    
   }; 
 
   return ( 

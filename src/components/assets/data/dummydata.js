@@ -40,7 +40,7 @@ export const LinkData = [
       reviews: 20,
       price: 0,
       instructor: 'John Doe',
-      location: 'Online',
+      location: 'Baghdad',
        phone: '+1234567890',
     },
     {
@@ -52,7 +52,7 @@ export const LinkData = [
       reviews: 2,
       price: 100,
       instructor: 'John Doe',
-      location: 'Online',
+      location: 'Baghdad',
        phone: '+1234567890',
     },
     {
@@ -64,7 +64,7 @@ export const LinkData = [
       reviews: 2,
       price: 100,
       instructor: 'John Doe',
-      location: 'Online',
+      location: 'Baghdad',
        phone: '+1234567890',
     },
     {
@@ -76,7 +76,7 @@ export const LinkData = [
       reviews: 9,
       price: 30,
       instructor: 'muna',
-      location: 'Online',
+      location: 'Baghdad',
        phone: '+1234567890',
     },
     {
@@ -88,7 +88,7 @@ export const LinkData = [
       reviews: 18,
       price: 100,
       instructor: 'Ahmed',
-      location: 'Online',
+      location: 'Baghdad',
        phone: '+1234567890',
     },
     {
@@ -100,7 +100,7 @@ export const LinkData = [
       reviews: 10,
       price: 200,
       instructor: 'Ahmed',
-      location: 'Online',
+      location: 'Basra',
        phone: '+1234567890',
     },
   ]
