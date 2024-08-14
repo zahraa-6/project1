@@ -4,10 +4,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#2B4EFF",
-        secondary: "#bae6fd",
-        dark: '#f1f5f9',
-        backbg: "rgba(43, 78, 255, 0.7);",
+        primary: "#f7ba34",
+        secondary: "#727de8",
+       
+        light:'#f7f7f7',
+
+        dark: '#333333',
+        backbg: "#999999",
       },
       backgroundImage: {
         'footer-texture': "url('/img/footer-texture.png')",

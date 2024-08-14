@@ -1,5 +1,5 @@
 import React from "react"
-import aboutImg from "../components/assets/images/image.png"
+import aboutImg from "../components/assets/images/img1.png"
 
 
 import { AiOutlineCheck } from "react-icons/ai"
