@@ -32,7 +32,7 @@ export const Instructor = () => {
                 className='text-lg py-3 px-6 bg-blue-500 text-white border border-gray-200 rounded-md hover:bg-blue-600'
                 onClick={handleTraineesClick}
               >
-                Start a class today
+              Enter your course
               </button>
             </div>
           </div>

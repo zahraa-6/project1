@@ -10,7 +10,7 @@ function Login() {
     event.preventDefault();
     console.log('Username:', username);
     console.log('Password:', password);
-    // يمكنك إضافة منطق للتحقق أو التوجيه هنا
+  
   };
 
   return (

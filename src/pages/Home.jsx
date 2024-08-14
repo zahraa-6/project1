@@ -96,7 +96,6 @@ export const HomeContent = () => {
               </div>
             </div>
             <div className="content">
-              {/* Add content here */}
             </div>
           </div>
         </div>
